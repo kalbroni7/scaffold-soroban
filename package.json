@@ -41,7 +41,7 @@
     ]
   },
   "dependencies": {
-    "eslint": "7.12.1",
+    "eslint": "9.15.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-config-react-app": "^5.2.1",
     "eslint-import-resolver-typescript": "^2.0.0",
